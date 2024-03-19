@@ -1,0 +1,3 @@
+docker -v (version)
+docker images (images)
+docker ps (container)
