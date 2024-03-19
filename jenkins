@@ -1,0 +1,6 @@
+sudo chown -R jenkins:jenkins /var/lib/jenkins
+
+sudo chmod 666 /var/run/docker.sock
+
+
+
